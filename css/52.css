@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(../images/톰보이3.jpg);
+}
+
+p {
+    background: rgba((0),100,200, 0.3);
+}
+
+.art {
+    width: 80%;
+}
+
+.inner {
+    margin: 0 auto;
+}

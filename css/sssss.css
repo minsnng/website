@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+* { padding: 0%; margin: 0; box-sizing: border-box;}
+body {min-width: 1280px;}
+.inner { width: 1200px; margin: 0 auto;}
+h1 { font-size: 6.25rem ; font-weight: 900;}
+h2 { font-size: 3.2rem; font-weight: 800;}
+h3 { font-size: 1.87rem; font-weight: 600;}
+section { display: flex; height: 830px;}
+section .left,
+section .right { width:  50%; height: 100%;}
+

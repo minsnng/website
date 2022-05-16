@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.one {
+    position: fixed;
+    background-color: #fff;
+}
+.title { 
+    padding: 3em;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 200px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.main {
+    padding: 1em;
+    font-size: 100px;
+    font-weight: bold;
+    
+}

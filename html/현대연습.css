@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* { padding: 0; margin: 0; box-sizing: border-box;}
+body { min-width: 1280px;}
+.inner { width: 1280px; margin: 0 auto;}
+h1 { font-size: 6.25rem; font-weight: 900;}
+h2 { font-size: 3.2rem; font-weight: 800;}
+h3 { font-size: 1.87rem; font-weight: 600;}
+section {display: flex; height: 830px;}
+section .left,
+section .right { width: 50%; height: 100%; }
+
+.one { text-align: center; color: #fff; background: url(/images/apple.png) 50% 60% no-repeat; background-size: cover; padding: 250px 0 0 0;}
+.one h1 { color: #fff; letter-spacing: 20px; text-shadow: 5px 5px 10px #000;}

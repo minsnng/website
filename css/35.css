@@ -1,0 +1,31 @@
+@charset "utf-8"
+
+li {
+    list-style-type: none;
+}
+.gnb li {
+    display: inline;
+}
+
+.gnb li a {
+    display: inline-block;
+    background: skyblue;
+    color: #fff;
+    width: 100px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.gnb li a:hover {
+    text-decoration: underline;
+    background: #369;
+}
+
+span {
+    background: cornflowerblue;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+}
